@@ -1,11 +1,11 @@
 # uangSaku-bot
 
-## [+]Deskripsi
+## [+] Deskripsi
 
 Script auto claim misi UANG SAKU (app.a123456b.com)
 dengan fitur bulk login.
 
-## [+]Instalasi
+## [+] Instalasi
 
 Perlu git untuk cloning repository ini dan PHP untuk menjalankannya
 jika sudah menginstall git dan PHP sebelumnya, bisa skip pada line 1 dan 2
@@ -16,7 +16,7 @@ $ pkg install php
 $ git clone https://github.com/hasyimprolinkk/uangSaku-bot.git
 ```
 
-## [+]Cara Penggunaan
+## [+] Cara Penggunaan
 
 Silahkan buka file "user.txt" dan ganti dengan username dan password kalian.
 jika susah untuk menemukan file "user.txt" di memori internal, 
@@ -36,6 +36,6 @@ atau
 ```shell
 $ php claim-youtube.php
 ```
-## [+]Kredit
+## [+] Kredit
 
 https://t.me/hasyimprolinkk
