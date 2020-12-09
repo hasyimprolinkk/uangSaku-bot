@@ -34,7 +34,7 @@ $ php claim-tiktok.php
 ```
 atau
 ```shell
-$ php claim-yotube.php
+$ php claim-youtube.php
 ```
 ## [+]Kredit
 https://t.me/hasyimprolinkk
