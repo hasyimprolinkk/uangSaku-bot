@@ -14,8 +14,6 @@ jika kamu sudah menginstall git dan PHP sebelumnya, kamu bisa skip pada line 1 d
 $ pkg install git
 $ pkg install php
 $ git clone https://github.com/hasyimprolinkk/uangSaku-bot.git
-$ cd uangSaku-bot
-$ php app.php
 ```
 
 ## [+]Cara Penggunaan
@@ -29,6 +27,14 @@ silahkan install terlebih dahulu. jika sudah maka skip pada line 1
 $ pkg install nano
 $ cd uangSaku-bot
 $ nano user.txt
+```
+jika sudah selesai silahkan jalankan file php nya
+```shell
+$ php claim-tiktok.php
+```
+atau
+```shell
+$ php claim-yotube.php
 ```
 ## [+]Kredit
 https://t.me/hasyimprolinkk
