@@ -7,7 +7,7 @@ dengan fitur bulk login.
 
 ## [+] Instalasi
 
-Perlu git untuk cloning repository ini dan PHP untuk menjalankannya
+Perlu git untuk cloning repository ini dan PHP untuk menjalankannya.
 jika sudah menginstall git dan PHP sebelumnya, bisa skip pada line 1 dan 2
 
 ```shell
